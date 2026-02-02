@@ -80,7 +80,7 @@ MySQL Database
 
 ### Backend (Spring Boot)
 
-1. Open in IntelliJ / STS
+1. Open the project in Eclipse 
 2. Configure `application.properties` with MySQL credentials
 3. Run the Spring Boot application
 
