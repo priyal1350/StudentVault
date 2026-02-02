@@ -97,7 +97,4 @@ npm start
 All APIs were tested using Postman to ensure proper request/response handling and validation.
 
 
-Now this will look **exactly like your Recipe README style**,  
-but with **StudentVault content**.
-
 
